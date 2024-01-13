@@ -1,0 +1,2 @@
+imagenes.Imagenes
+ConvertirPNGaHexadecimal
